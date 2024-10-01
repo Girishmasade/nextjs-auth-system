@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This repository showcases a fully functional authentication system built with Next.js. It includes user registration, login, and session management using secure and modern authentication practices. The system integrates with third-party providers and leverages JWT (JSON Web Tokens) for authentication and authorization.
+
+Key Features:
+
+User Registration & Login: Custom authentication system with hashed passwords.
+Session Management: Secure session handling using JWTs and cookies.
+Third-Party Authentication: Integration with providers like Google, GitHub, etc.
+API Routes: Secure API routes with role-based access control.
+NextAuth.js Integration: Optional use of NextAuth.js for easy integration with OAuth providers.
+Responsive Design: Clean, minimal design, optimized for both desktop and mobile.
+
+
 ## Getting Started
 
 First, run the development server:
